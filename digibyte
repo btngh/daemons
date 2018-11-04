@@ -26,13 +26,13 @@ rpcallowip=127.0.0.1
 rpcallowip=192.168.1.0/24
 algo=skein
 
-#addnode=seed1.digibyte.io
-#addnode=seed2.digibyte.io
-#addnode=seed3.digibyte.io
-#addnode=seed.digibyte.io
-#addnode=seed.digibyteprojects.com
-#addnode=digihash.co
-#addnode=digiexplorer.info
-#addnode=seed.digibyteguide.com
-#addnode=seed-1.us.digibyteservers.io
+addnode=seed1.digibyte.io
+addnode=seed2.digibyte.io
+addnode=seed3.digibyte.io
+addnode=seed.digibyte.io
+addnode=seed.digibyteprojects.com
+addnode=digihash.co
+addnode=digiexplorer.info
+addnode=seed.digibyteguide.com
+addnode=seed-1.us.digibyteservers.io
 
